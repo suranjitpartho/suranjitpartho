@@ -1,13 +1,13 @@
 # Hi, I'm Suranjit Das
 
-**AI Systems Engineer • Full Stack Developer • Data & Analytics Professional**
-
+AI Systems Engineer | Full Stack Developer | Data & Analytics Professional  
 Building real-world AI products that automate workflows, connect enterprise data, and solve operational problems with measurable impact.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-suranjitpartho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Available-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Location](https://img.shields.io/badge/Target-New%20Zealand-0E76A8?style=flat-square)
+![LinkedIn](https://img.shields.io/badge/Experience-8+_YEARS-orange.svg)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-suranjitpartho-blue.svg)
+![Email](https://img.shields.io/badge/Email-suranjitpartho@gmail.com-red.svg)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801735955051-25D366.svg)
+![Location](https://img.shields.io/badge/Location-Bangladesh-yellow.svg)
 
 **About Me**
 
