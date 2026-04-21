@@ -44,17 +44,17 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suranjitpartho&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suranjitpartho&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css,mako" />
 </p>
-
 <p align="left">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=suranjitpartho&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Last%2045%20Days)&days=45" />
 </p>
 
 <br>
-<br>
 
 ### Target Roles
-`AI Developer` , `Full Stack Developer` , `Data & AI Specialist` . `BI Developer`
+`AI Developer` • `Full Stack AI Engineer` • `Data & AI Specialist` • `BI Developer`
 
 <br>
 
-*"Building products that save real people real time."*
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=5000&pause=500&color=53CFC4&center=false&vCenter=true&width=1000&lines=ENGINEERING+AI+SYSTEMS+FOR+GLOBAL+HUMANITARIAN+IMPACT!;" />
+</p>
