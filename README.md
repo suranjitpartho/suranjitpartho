@@ -4,10 +4,10 @@
 
 Building real-world AI products that automate workflows, connect enterprise data, and solve operational problems with measurable impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/suranjitpartho)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8800000000000)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-suranjitpartho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Available-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Location](https://img.shields.io/badge/Target-New%20Zealand-0E76A8?style=flat-square)
 
 **About Me**
 
