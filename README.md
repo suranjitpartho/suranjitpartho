@@ -17,7 +17,6 @@
 <img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,js,react,flutter,postgres,mysql,docker,git,linux&perline=12" />
 
 <br>
-<br>
 
 ### Featured Projects
 
@@ -36,7 +35,6 @@
 - **Repo:** *Coming Soon*
 
 <br>
-<br>
 
 ### GitHub Activity
 
@@ -45,7 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suranjitpartho&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css,mako" />
 </p>
 <p align="left">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=suranjitpartho&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Last%2045%20Days)&days=45" />
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=suranjitpartho&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Last%2030%20Days)&days=30" />
 </p>
 
 <br>
