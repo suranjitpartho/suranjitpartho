@@ -9,18 +9,26 @@ Building real-world AI products that automate workflows, connect enterprise data
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801735955051-25D366.svg)
 ![Location](https://img.shields.io/badge/Location-Bangladesh-yellow.svg)
 
-**About Me**
+<br>
+<br>
 
+About Me
 - 8+ years of experience in software systems, MIS platforms, analytics, and operational technology  
 - Building AI-powered products with real business ROI  
 - Strong in backend systems, workflow automation, dashboards, and scalable applications  
 - Targeting opportunities in New Zealand and global teams
 
-**Tech Stack**
+<br>
+<br>
+
+Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,react,flutter,postgres,mysql,docker,git,linux,vscode&perline=12" />
 </p>
+
+<br>
+<br>
 
 **Featured Projects**
 
