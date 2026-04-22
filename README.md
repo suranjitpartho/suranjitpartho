@@ -2,7 +2,7 @@
 
 <br>
 
-**AI Systems Engineer | Humanitarian Data Professional**  
+**AI Systems, Analytics & Full Stack Engineer**  
 8+ years of engineering data-driven solutions for large-scale development and humanitarian programs, now applying Artificial Intelligence to solve high-impact challenges in Health, Agriculture, and Operational Intelligence.
 
 <a></a><img src="https://img.shields.io/badge/Experience-8+%20Years-orange" alt="Experience"> 
