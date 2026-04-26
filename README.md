@@ -2,7 +2,7 @@
 
 <br>
 
-**AI Systems, Analytics & Full Stack Engineer**  
+**AI Systems Engineer | Full Stack Developer | Data & Analytics Professional**  
 8+ years of engineering data-driven solutions for large-scale development and humanitarian programs, now applying Artificial Intelligence to solve high-impact challenges in Health, Agriculture, and Operational Intelligence.
 
 <a></a><img src="https://img.shields.io/badge/Experience-8+%20Years-orange" alt="Experience"> 
@@ -12,27 +12,19 @@
 <a></a><img src="https://img.shields.io/badge/Location-Bangladesh-yellow" alt="Location">
 
 <br>
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,js,react,flutter,postgres,mysql,docker,git,linux&perline=12" />
 
 <br>
 
-### Featured Projects
+### Featured Project
 
-#### Clinical Data Intelligence System
-> **An Enterprise AI assistant for internal clinical databases.**
-- **Stack:** `FastAPI` • `React` • `LangChain` • `RAG` • `SQL Tools` • `Groq API`
-- **Impact:** Enables natural language querying across structured and unstructured medical data for One Health initiatives.
-- **Key Feature:** Self-correction loops that autonomously refine SQL queries for high-accuracy clinical insights.
-- **Repo:** *Internal / Coming Soon*
-
-#### Farm Operations AI Copilot
-> **Mobile AI assistant for agricultural operations teams.**
-- **Stack:** `Laravel` • `Flutter` • `OpenAI API`
-- **Impact:** Dynamic task scheduling and weather-aware field recommendations for field staff in developing regions.
-- **Key Feature:** Offline-first field issue reporting with AI-driven categorization.
-- **Repo:** *Coming Soon*
+> **Clinical Data Intelligence System**  
+> *A Clinical AI agent that bridges structured SQL databases and unstructured medical narratives for instant clinical insights.*
+- **Stack:** `FastAPI` • `React` • `LangGraph` • `pgvector` • `Groq API`
+- **Impact:** Reduces clinical data retrieval workflows from hours of manual ticketing to near real-time, directly improving operational turnaround for healthcare teams.
+- **Engineering Highlight:** Engineered a deterministic state-machine with autonomous Self-Healing SQL Loops that capture database tracebacks to automatically fix query errors and prevent AI hallucinations.
+- *[Show GitHub Repo](https://github.com/suranjitpartho/clinical-data-intelligence-system.git)*
 
 <br>
 
@@ -49,7 +41,7 @@
 <br>
 
 ### Target Roles
-`AI Developer` • `Full Stack AI Engineer` • `Data & AI Specialist` • `BI Developer`
+`AI Developer` • `Full Stack Software Engineer` • `Data & AI Specialist` • `BI Developer`
 
 <br>
 
